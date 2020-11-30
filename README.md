@@ -26,4 +26,4 @@ https://drive.google.com/file/d/1jaN4mW-TjlSvEpO1_D15JTu7x2nO92Sv/view?usp=shari
 Please note that this dataset is only for research purpose. Since those images is rendered using 3D asset,
 you also need to agree the following terms: https://www.3dscanstore.com/terms-and-conditions-licensing 
 and https://www.gobotree.com/acceptable/.
-Please send us your agreement, we will reply the password to unzip dataset.
+Please send us(gxsong.ntu@gmail.com) your agreement, we will reply the password to unzip dataset. 
