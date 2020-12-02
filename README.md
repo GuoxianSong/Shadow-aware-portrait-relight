@@ -26,5 +26,5 @@ lib/render/AutoRender: This can do batch render to generate dataset.
 Rendered Image: https://drive.google.com/file/d/1jaN4mW-TjlSvEpO1_D15JTu7x2nO92Sv/view?usp=sharing
 Please note that this dataset is only for research purpose. Since those images is rendered using 3D asset,
 you also need to agree the following terms: https://www.3dscanstore.com/terms-and-conditions-licensing 
-and https://www.gobotree.com/acceptable/.
-Please send us(gxsong.ntu@gmail.com) your agreement, we will reply the password to unzip dataset. 
+and https://www.gobotree.com/acceptable/. (Accord to the term, you need to first purchase the 3D asset in the corresponding website, which is not expensive.)
+Please send us(gxsong.ntu@gmail.com) your agreement and receipt, we will reply the password to unzip dataset. 
