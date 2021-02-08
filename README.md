@@ -44,5 +44,5 @@ python lib/render/AutoRender.py
 
 Due to the current license constrain, https://www.3dscanstore.com/terms-and-conditions-licensing 
 and https://www.gobotree.com/acceptable/, we might not be able directly share the rendered image and 3D asset to you. 
-If you have purchased such 3D asset(inexpensive), we would like to share unzip password to you.
+If you have purchased such 3D asset(inexpensive), you can use our renderred datasets.
 
