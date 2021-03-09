@@ -1,6 +1,6 @@
 # PortraitRelight
 
-### We public our implementation in lib.
+### ~~We public our implementation in lib~~. [The code is under undergoing intellectual property processing, and will come out later. For dear reviwers, you can still find our code in supplemetry files.]
 
 lib/dataset: dataset files we used in training
 
@@ -40,9 +40,9 @@ python lib/render/AutoRender.py
 
 ### We public our rendered images:
 [dataset](https://drive.google.com/file/d/1jaN4mW-TjlSvEpO1_D15JTu7x2nO92Sv/view?usp=sharing)
-(Attention, this file is about 45GB.)
+(Attention, this file is about 45GB. Just download and simply unzip the files.)
 
-Due to the current license constrain, https://www.3dscanstore.com/terms-and-conditions-licensing 
+~~Due to the current license constrain, https://www.3dscanstore.com/terms-and-conditions-licensing 
 and https://www.gobotree.com/acceptable/, we might not be able directly share the rendered image and 3D asset to you. 
-If you have purchased such 3D asset(inexpensive), you can use our renderred datasets.
+If you have purchased such 3D asset(inexpensive), you can use our renderred datasets.~~
 
