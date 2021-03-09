@@ -1,6 +1,6 @@
 # PortraitRelight
 
-### ~~We public our implementation in lib~~. [The code is under undergoing intellectual property processing, and will come out later. For dear reviwers, you can still find our code in supplemetry files.]
+### ~~We public our implementation in lib~~. [The code is under undergoing intellectual property processing, and will come out later. For dear reviwers, you can still find our code in supplemetry files(in previous submission).]
 
 lib/dataset: dataset files we used in training
 
