@@ -40,10 +40,6 @@ python lib/render/AutoRender.py
 ```
 
 
-### We public our rendered images:
-[dataset](https://drive.google.com/file/d/1jaN4mW-TjlSvEpO1_D15JTu7x2nO92Sv/view?usp=sharing)
-(Attention, this file is about 45GB.)
-
-Due to the current license constrain, https://www.3dscanstore.com/terms-and-conditions-licensing 
-and https://www.gobotree.com/acceptable/, we might not be able directly share the rendered image and 3D asset to you. 
-If you have purchased such 3D asset(inexpensive), you can use our renderred datasets.
+### Use our rendered images:
+Due to the current license constrain, https://www.gobotree.com/acceptable/, we can not share the 3D asset to you. 
+After you get the 3D asset from gobtree, please contact me to access the rendered images. 
